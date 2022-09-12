@@ -11,4 +11,5 @@ print(linkedlist)
 linkedlist.insert(2,99)
 print(linkedlist)
 
-#访问某个元素号 好好
+#访问某个元素
+

@@ -1,5 +1,5 @@
 #数组中的元素都是相同类型的
-
+#python3
 #创建数组
 a=[]
 
@@ -56,7 +56,7 @@ index=a.index(6)
 print(index)
 
 
-#数组排序
+#数组排序   
 a=[3,1,2]
 a.sort()
 print(a)
